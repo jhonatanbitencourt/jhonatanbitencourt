@@ -67,7 +67,7 @@
         <a href="https://www.instagram.com/jhonatan.bitencourt/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" />
         </a>
-        <a href="https://www.youtube.com/channel/ucsg-ab_8z3pankftuve2nkw" target="blank">
+        <a href="https://www.youtube.com/channel/UCSg-ab_8z3pANKftuve2nKw" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsg-ab_8z3pankftuve2nkw" height="30" width="40" />
         </a>
     </p>
