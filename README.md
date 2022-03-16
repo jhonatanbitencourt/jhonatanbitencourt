@@ -61,13 +61,13 @@
 
 <h3 align="left">Mais sobre mim em:</h3>
     <p align="center">
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/jhonatan-bitencourt-4654b9a7/" target="blank">
+        <a href="https://linkedin.com/in/jhonatan-bitencourt-4654b9a7/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhonatan-bitencourt-4654b9a7/" height="30" width="40" />
         </a>
-        <a href="https://instagram.com/https://www.instagram.com/" target="blank">
+        <a href="https://www.instagram.com/jhonatan.bitencourt/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" />
         </a>
-        <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsg-ab_8z3pankftuve2nkw" target="blank">
+        <a href="https://www.youtube.com/channel/ucsg-ab_8z3pankftuve2nkw" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsg-ab_8z3pankftuve2nkw" height="30" width="40" />
         </a>
     </p>
